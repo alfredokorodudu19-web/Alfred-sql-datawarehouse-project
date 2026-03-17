@@ -193,5 +193,5 @@ README.md
 ---
 
 ## Author
-
+My name is Okorodudu Alfred,I'm an aspiring Data Engineer.
 This project is part of my journey into **Data Engineering**, focusing on building real-world ETL pipelines and mastering SQL-based data transformations.
