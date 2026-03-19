@@ -190,6 +190,29 @@ README.md
 - Add scheduling (SQL Agent / Airflow)
 - Create dashboards (Power BI / Tableau)
 
+- ## Gold Layer
+
+The Gold layer contains business-ready reporting views built from the cleaned Silver layer.
+
+These views provide:
+- sales summaries
+- customer performance metrics
+- product performance insights
+- monthly sales trends
+- regional sales analysis
+- detailed customer order reporting
+
+Gold views created in this project:
+- `gold.fact_orders`
+- `gold.dim_customers`
+- `gold.dim_products`
+- `gold.sales_summary`
+- `gold.customer_metrics`
+- `gold.product_performance`
+- `gold.customer_order_details`
+- `gold.monthly_sales_trend`
+- `gold.region_performance`
+
 ---
 
 ## Author
